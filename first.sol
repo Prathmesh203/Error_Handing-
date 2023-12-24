@@ -18,9 +18,5 @@ contract Revert_Money {
         revert("This operation is not allowed"); 
         }
         Coin = MY_Coin;
-        
-        
     }
-
-    
 }
